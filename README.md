@@ -55,3 +55,15 @@
         <img src="https://img.shields.io/badge/ВКонтакте-0775f9?style=for-the-badge" alt="vkontakte-badge">
     </a>
 </div>
+
+---
+
+### Fun facts about me
+- 🎮 I love playing video games
+- 🚀 I'm fascinated by space and astronomy
+- 📚 I enjoy reading sci-fi books
+
+<div align="center">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" alt="coding-gif">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" alt="space-gif">
+</div>
