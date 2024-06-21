@@ -13,7 +13,7 @@
     <a href="https://vk.com/arp_forum_parser">
         <img src="https://img.shields.io/badge/ForumParser-000000.svg?style=for-the-badge" alt="ForumParser-badge">
     </a>
-    <a href="#">
+    <a href="https://t.me/farmilkinproject">
         <img src="https://img.shields.io/badge/Farmilkin-000000.svg?style=for-the-badge" alt="Farmilkin-badge">
     </a>
 </div>
