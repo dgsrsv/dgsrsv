@@ -58,7 +58,7 @@
 
 ---
 
-### Fun facts about me
+### fun facts about me
 - 🤖 I started learning by writing a bot for discord
 - 😴 I'm lazy and most of my projects are aimed at simplifying gameplay
 - 🎤 I'm into rap battles.
