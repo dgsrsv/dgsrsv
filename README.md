@@ -1,13 +1,13 @@
-# Привет, я [Daniil](https://vk.com/id632239559) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32px" alt="wave-emoji">
+# greet you, i am [Daniil](https://vk.com/id632239559) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32px" alt="wave-emoji">
 
-## Я живу в России, знаю русский и немного английский языки
+## i live in Russia, from languages I know Russian and a little English
 
 ---
 
-### Обо мне
-- Я люблю программирование и действительно наслаждаюсь этим!
-- Я начал заниматься этим в 13 лет и у меня много опыта.
-- Вы можете знать меня по таким проектам как:
+### about me
+- I love programming and I really enjoy it!
+- I started doing it when I was 13 years old and I have a lot of experience.
+- You may know me from such projects as:
 
 <div align="center">
     <a href="https://vk.com/arp_forum_parser">
@@ -20,7 +20,7 @@
 
 ---
 
-### Мой стек
+### my stack
 <div align="center">
     <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua-badge">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp-badge">
@@ -31,7 +31,7 @@
 
 ---
 
-### Мои профили на форумах
+### my profiles on the forums
 <div align="center">
     <a href="https://www.blast.hk/members/458823/">
         <img src="https://img.shields.io/badge/blasthack-%2300599C.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="blasthack-badge">
@@ -43,7 +43,7 @@
 
 ---
 
-### Связаться со мной можно через
+### you can reach me with
 <div align="center">
     <a href="https://t.me/dgsrsv">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram-badge">
