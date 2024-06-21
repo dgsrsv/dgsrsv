@@ -59,9 +59,9 @@
 ---
 
 ### Fun facts about me
-- 🎮 I love playing video games
-- 🚀 I'm fascinated by space and astronomy
-- 📚 I enjoy reading sci-fi books
+- 🤖 I started learning by writing a bot for discord
+- 😴 I'm lazy and most of my projects are aimed at simplifying gameplay
+- 🎤 I'm into rap battles.
 
 <div align="center">
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" alt="coding-gif">
