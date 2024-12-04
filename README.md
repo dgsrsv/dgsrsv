@@ -45,7 +45,7 @@
 
 ### you can reach me with
 <div align="center">
-    <a href="https://t.me/dgsrsv">
+    <a href="https://t.me/mazohist_cpp">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram-badge">
     </a>
     <a href="https://discord.gg/bCy2zGdNyY">
