@@ -49,10 +49,9 @@
 
 ---
 
-### fun facts about me
-- 🤖 I started learning by writing a bot for discord
-- 😴 I'm lazy and most of my projects are aimed at simplifying gameplay
-- 🎤 I'm into rap battles.
+### facts about me
+- i started learning by writing a bots for messengers
+- i'm lazy and most of my projects are aimed at simplifying gameplay
 
 <div align="center">
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" alt="coding-gif">
