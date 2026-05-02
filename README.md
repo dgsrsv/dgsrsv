@@ -7,16 +7,6 @@
 ### about me
 - I love programming and I really enjoy it!
 - I started doing it when I was 13 years old and I have a lot of experience.
-- You may know me from such projects as:
-
-<div align="center">
-    <a href="https://vk.com/arp_forum_parser">
-        <img src="https://img.shields.io/badge/ForumParser-000000.svg?style=for-the-badge" alt="ForumParser-badge">
-    </a>
-    <a href="https://t.me/farmilkinproject">
-        <img src="https://img.shields.io/badge/Farmilkin-000000.svg?style=for-the-badge" alt="Farmilkin-badge">
-    </a>
-</div>
 
 ---
 
